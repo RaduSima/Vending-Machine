@@ -70,7 +70,7 @@ public class VendingMachineImpl implements IVendingMachine {
             String input = scanner.nextLine();
 
             // check for cancel command
-            if (input.equals("cancel")) {
+            if (input.equalsIgnoreCase("cancel")) {
                 cancelRequest(item);
                 continue;
             }
