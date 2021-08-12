@@ -52,10 +52,9 @@ public class Item {
 
     @Override
     public String toString() {
-        return "Item{" +
-                "UID=" + UID +
-                ", name='" + name + '\'' +
-                ", price=" + price +
-                '}';
+        return "Item:" +
+                " UID = " + UID +
+                ", name = '" + name + '\'' +
+                ", price = " + price;
     }
 }
