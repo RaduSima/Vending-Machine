@@ -41,7 +41,8 @@ public class Item {
     public boolean equals(Object o) {
         if (this == o) return true;
         if (!(o instanceof Item item)) return false;
-        return UID == item.UID && Double.compare(item.price, price) == 0 && Objects.equals(name, item.name);
+        return UID == item.UID && Double.compare(item.price, price) == 0 &&
+                Objects.equals(name, item.name);
     }
 
     @Override

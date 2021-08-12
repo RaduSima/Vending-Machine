@@ -1,7 +1,8 @@
-package vending;
+package vending.money;
 
 public enum Bill implements Currency {
-    RON1(1), RON5(5), RON10(10), RON50(50), RON100(100), RON200(200), RON500(500);
+    RON500(500), RON200(200), RON100(100), RON50(50),
+    RON10(10), RON5(5), RON1(1);
 
     private final double value;
 
@@ -14,3 +15,4 @@ public enum Bill implements Currency {
         return value;
     }
 }
+
