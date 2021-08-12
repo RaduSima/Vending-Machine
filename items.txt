@@ -1,0 +1,100 @@
+1,"Beans - Black Bean, Dry",47.28
+2,Pepper - Orange,52.67
+3,Quinoa,52.1
+4,Wine - Segura Viudas Aria Brut,99.0
+5,Cheese - Cottage Cheese,3.98
+6,Coffee Swiss Choc Almond,83.93
+7,Tomato Puree,49.05
+8,Wine - Blue Nun Qualitatswein,17.51
+9,Wine - Chardonnay South,29.82
+10,Pork - Ham Hocks - Smoked,45.37
+11,Chicken - Whole,81.33
+12,Crackers - Trio,17.39
+13,Rolled Oats,45.17
+14,Beer - Muskoka Cream Ale,68.32
+15,"Wine - Niagara,vqa Reisling",76.21
+16,Chicken - Base,35.46
+17,"Chicken - Base, Ultimate",36.65
+18,Tomatoes - Roma,91.55
+19,Island Oasis - Magarita Mix,12.04
+20,"Nut - Cashews, Whole, Raw",15.38
+21,Bread Fig And Almond,78.17
+22,"Crab - Claws, Snow 16 - 24",85.38
+23,Salad Dressing,5.63
+24,"Tomatoes - Vine Ripe, Yellow",72.4
+25,Cassis,59.69
+26,Goat - Leg,32.56
+27,"Vermouth - White, Cinzano",71.85
+28,Wine - Mondavi Coastal Private,67.39
+29,Gherkin,7.08
+30,Wooden Mop Handle,16.26
+31,Tea - Apple Green Tea,34.58
+32,"Mushroom - Chantrelle, Fresh",33.61
+33,Eggroll,19.71
+34,Oven Mitts 17 Inch,26.76
+35,Kiwi,71.52
+36,Waffle Stix,27.78
+37,Chocolate - Dark,94.84
+38,Wine La Vielle Ferme Cote Du,74.02
+39,Cake - Miini Cheesecake Cherry,52.91
+40,"Asparagus - White, Fresh",29.03
+41,Cocoa Powder - Natural,52.89
+42,"Rum - Coconut, Malibu",26.96
+43,Squid - U 5,57.27
+44,Spinach - Frozen,97.03
+45,Trout - Smoked,28.66
+46,"Sauce - Black Current, Dry Mix",49.81
+47,"Chilli Paste, Hot Sambal Oelek",40.53
+48,"Nut - Cashews, Whole, Raw",89.88
+49,Sausage - Meat,99.41
+50,"Wine - Harrow Estates, Vidal",83.17
+51,Coffee Cup 12oz 5342cd,23.94
+52,Oil - Avocado,63.64
+53,Veal - Sweetbread,72.85
+54,Table Cloth 90x90 White,61.99
+55,Raisin - Golden,7.83
+56,Poppy Seed,12.39
+57,Potatoes - Fingerling 4 Oz,27.45
+58,Mushroom - Portebello,88.1
+59,"Tomatoes - Vine Ripe, Red",70.16
+60,Vaccum Bag 10x13,45.81
+61,Squash - Sunburst,92.52
+62,"Tarragon - Primerba, Paste",62.51
+63,Cinnamon Rolls,63.19
+64,Snapple - Iced Tea Peach,66.19
+65,Muffin Batt - Carrot Spice,75.05
+66,Wine - Cabernet Sauvignon,78.92
+67,Ice Cream Bar - Hageen Daz To,3.29
+68,Vegetable - Base,61.97
+69,Raisin - Dark,97.18
+70,Flower - Commercial Spider,74.33
+71,Turnip - Wax,60.74
+72,"Doilies - 5, Paper",36.05
+73,Dill Weed - Fresh,90.64
+74,Oil - Canola,87.63
+75,Cream - 18%,19.2
+76,Gatorade - Orange,49.97
+77,Danishes - Mini Raspberry,32.29
+78,Veal - Striploin,15.34
+79,Island Oasis - Wildberry,81.92
+80,Potatoes - Mini Red,13.17
+81,Guinea Fowl,28.21
+82,Cup - Translucent 7 Oz Clear,93.77
+83,"Tart Shells - Savory, 4",64.01
+84,"Shrimp, Dried, Small / Lb",80.92
+85,"Leeks - Baby, White",62.78
+86,Chutney Sauce,33.18
+87,"Quail - Whole, Boneless",12.41
+88,Gatorade - Fruit Punch,5.6
+89,Shrimp - Tiger 21/25,59.5
+90,Ostrich - Prime Cut,31.65
+91,"Bread - Roll, Italian",5.22
+92,Tray - 16in Rnd Blk,62.41
+93,Soup - Chicken And Wild Rice,9.56
+94,Muffin - Mix - Creme Brule 15l,4.04
+95,Napkin Colour,37.89
+96,Wine - Barossa Valley Estate,40.34
+97,"Lamb - Leg, Diced",69.51
+98,Wine - Chardonnay South,27.9
+99,Cheese - Bocconcini,54.84
+100,Eel - Smoked,17.13
